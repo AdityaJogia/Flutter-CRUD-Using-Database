@@ -1,0 +1,14 @@
+com.example.cruddemo.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Aditya\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.cruddemo.app-jetified-window-1.0.0-beta04-1 C:\Users\Aditya\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.example.cruddemo.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Aditya\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.cruddemo.app-core-1.6.0-3 C:\Users\Aditya\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.example.cruddemo.app-debug-4 D:\Darshan University\Sem-4\Flutter\cruddemo\android\app\src\debug\res
+com.example.cruddemo.app-main-5 D:\Darshan University\Sem-4\Flutter\cruddemo\android\app\src\main\res
+com.example.cruddemo.app-pngs-6 D:\Darshan University\Sem-4\Flutter\cruddemo\build\app\generated\res\pngs\debug
+com.example.cruddemo.app-resValues-7 D:\Darshan University\Sem-4\Flutter\cruddemo\build\app\generated\res\resValues\debug
+com.example.cruddemo.app-rs-8 D:\Darshan University\Sem-4\Flutter\cruddemo\build\app\generated\res\rs\debug
+com.example.cruddemo.app-mergeDebugResources-9 D:\Darshan University\Sem-4\Flutter\cruddemo\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.cruddemo.app-mergeDebugResources-10 D:\Darshan University\Sem-4\Flutter\cruddemo\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.cruddemo.app-merged_res-11 D:\Darshan University\Sem-4\Flutter\cruddemo\build\app\intermediates\merged_res\debug
+com.example.cruddemo.app-packaged_res-12 D:\Darshan University\Sem-4\Flutter\cruddemo\build\path_provider_android\intermediates\packaged_res\debug
+com.example.cruddemo.app-packaged_res-13 D:\Darshan University\Sem-4\Flutter\cruddemo\build\sqflite\intermediates\packaged_res\debug
